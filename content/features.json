@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Pages & Routing",
+    "description": "Effortless routing with dynamic and static page generation.",
+    "link": "/features/pages",
+    "icon": "LayoutDashboard"
+  },
+  {
+    "title": "Components",
+    "description": "Reusable UI elements to build your application.",
+    "link": "/features/components",
+    "icon": "Code"
+  },
+  {
+    "title": "Data Fetching",
+    "description": "Powerful options for fetching data from APIs.",
+    "link": "/features/data-fetching",
+    "icon": "Zap"
+  },
+  {
+    "title": "State Management",
+    "description": "Manage your application's data with ease.",
+    "link": "/features/state-management",
+    "icon": "BookOpen"
+  },
+  {
+    "title": "Plugins",
+    "description": "Extend Nuxt's functionality with custom plugins.",
+    "link": "/features/plugins",
+    "icon": "Rocket"
+  },
+  {
+    "title": "Middleware",
+    "description": "Add logic that runs before a route is accessed.",
+    "link": "/features/middleware",
+    "icon": "Layers"
+  }
+]
